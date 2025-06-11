@@ -47,7 +47,7 @@ Strings are surrounded with quotation marks
 1number = 10   - this would not work and give you an error
 ```
 
-2. There can be no spacing in between variable names..the programming language will assum that you are trying to execute new code
+2. There can be no spacing in between variable names..the programming language will assume that you are trying to execute new code
 
 ```
 my name = "Zach" - will not work..thinks there are two variables there
@@ -71,7 +71,7 @@ input my_name
 my_name = input
 ```
 
-Then you can take the input and manipulate..such as.....
+Then you can take the input and manipulate it..such as.....
 
 
 # Output
