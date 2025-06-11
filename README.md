@@ -8,7 +8,7 @@ The type they can store is almost infinite.  They can store numbers, text, image
 
 In this class we will mainly use numbers and text
 
-Numbers can use all the mathematical operators just like in your math
+Numbers can use all the mathematical operators just like in your math class
 
 - '+' - addition
 - '-' - subtration
