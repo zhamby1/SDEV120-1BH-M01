@@ -32,7 +32,7 @@ sum = first_number + second_number
 ```
 In this case, sum would now be equal to 30.
 
-Variables can also be test, also known as Strings
+Variables can also be text, also known as Strings
 
 ```
 name = "Zach"
