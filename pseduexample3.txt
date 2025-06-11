@@ -1,0 +1,12 @@
+//this program calculates sales tax for an item that is ten dollars
+
+start
+
+item = 10.00
+sales_tax = 0.06
+
+tax_on_item = item * sales_tax
+output tax_on_item
+
+
+stop

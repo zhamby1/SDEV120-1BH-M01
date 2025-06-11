@@ -1,0 +1,9 @@
+//this program doubles a number
+
+start
+
+input my_number
+my_number = my_number * 2
+output my_number
+
+stop

@@ -1,0 +1,14 @@
+start
+
+//these are comments aka notes... they not execute
+
+//as a beginner everything should be laid out in the following order - inputs and variables -> process/calculation -> output
+input miles_traveled
+input gallons_used
+
+miles_per_gallon = miles_traveled / gallons_used
+
+output miles_per_gallon
+
+
+stop
